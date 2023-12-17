@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/sahuashut0sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahuashut0sh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vvlogs by ashu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vvlogs by ashu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@vlogsbyashu_iitian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vvlogs by ashu" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ashuji2627" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ashuji2627" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ashu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashu" height="30" width="40" /></a>
 </p>
