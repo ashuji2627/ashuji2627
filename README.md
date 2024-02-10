@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **css, python , react, html, javascript**
 
-- 📫 How to reach me **sahuashu195@gmail.com.com**
+- 📫 How to reach me **sahuashu195@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
