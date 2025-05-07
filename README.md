@@ -6,17 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashuji2627&label=Profile%20views&color=0e75b6&style=flat" alt="ashuji2627" /> </p>
 
-- 🔭 I’m currently working on [Shopcity](https://github.com/ashuji2627/shopcity)
+- 🔭 I’m currently working on [Personalized Dressing Guide System](https://github.com/ashuji2627/Personalized-Dressing-Guide-System)
 
-- 🌱 I’m currently learning **Data Science, Web Development, UI/UX**
+- 🌱 I’m currently learning **Data Science, Web Development, UI/UX, Design**
 
 - 👯 I’m looking to collaborate on [Free-programming-books](https://github.com/ashuji2627/free-programming-books)
 
 - 👨‍💻 All of my projects are available at [https://myportfolioashu.000webhostapp.com](https://myportfolioashu.000webhostapp.com)
 
-- 💬 Ask me about **css, python , react, html, javascript**
+- 💬 Ask me about **MongoDB, Css, Python , React, Html, Javascript**
 
-- 📫 How to reach me **sahuashu195@gmail.com**
+- 📫 How to reach me **sahuashu809@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
