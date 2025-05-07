@@ -12,9 +12,9 @@
 
 - 👯 I’m looking to collaborate on [Free-programming-books](https://github.com/ashuji2627/free-programming-books)
 
-- 👨‍💻 All of my projects are available at [https://myportfolioashu.000webhostapp.com](https://myportfolioashu.000webhostapp.com)
+- 👨‍💻 All of my projects are available at [https://portfolio-ashutosh-sahu.netlify.app/](https://portfolio-ashutosh-sahu.netlify.app/)
 
-- 💬 Ask me about **MongoDB, Css, Python , React, Html, Javascript**
+- 💬 Ask me about **Web Development, Data Analysis ,MongoDB, Css, Python , React, Html, JS**
 
 - 📫 How to reach me **sahuashu809@gmail.com**
 
